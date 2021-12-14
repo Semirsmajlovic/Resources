@@ -149,13 +149,13 @@
 
 > Useful websites to claim free items through promotions and/or giveaways.
 
-<h3>Books:</h6>
+<p style="font-size: 16px;">Books:</p>
 
 | Website | Description |
 | --------------|:-------------|
 | [BookBub](https://www.bookbub.com/) | Get free best-selling e-books. |
 
-<h3>Software:</h6>
+<p style="font-size: 16px;">Software:</p>
 
 | Website | Description |
 | --------------|:-------------|
