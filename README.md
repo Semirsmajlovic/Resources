@@ -36,7 +36,7 @@
 
 | Website | Description |
 | --------------|:-------------|
-| [HappyHues](https://www.happyhues.co/) | Color palette inspiration site that acts as a real world example of how colors should be used in projects. <br /><br /> Tags: `colors` `hue` `palette` |
+| [HappyHues](https://www.happyhues.co/) | Color palette inspiration site that acts as a real world example of how colors should be used in projects. |
 
 
 
@@ -49,7 +49,7 @@
 
 | Website | Description |
 | --------------|:-------------|
-| [YouGetSignal](https://www.yougetsignal.com/) | Check Ports, IP, Geolocator, WHOIS and various other things. <br /><br /> Tags: `whois` `ip` `domain` `geolocator` `phone` |
+| [YouGetSignal](https://www.yougetsignal.com/) | Check Ports, IP, Geolocator, WHOIS and various other things. |
 
 
 
@@ -63,7 +63,7 @@
 
 | Website | Description |
 | --------------|:-------------|
-| [MindMup](https://www.mindmup.com/) | Create and share amazing mind maps designed to help you focus on your ideas and remove all the distractions while mindmapping. <br /><br /> Tags: `mind` `brainstorming` `focus` `collaborate` |
+| [MindMup](https://www.mindmup.com/) | Create and share amazing mind maps designed to help you focus on your ideas and remove all the distractions while mindmapping. |
 
 
 
@@ -77,7 +77,7 @@
 
 | Website | Description |
 | --------------|:-------------|
-| [StorySet](https://www.storyset.com/) | Customize, animate and download our illustrations to make incredible landing pages, app or presentations. <br /><br /> Tags: `ui` `illustrations` `graphics` |
+| [StorySet](https://www.storyset.com/) | Customize, animate and download our illustrations to make incredible landing pages, app or presentations. |
 
 
 ---
@@ -90,7 +90,7 @@
 
 | Website | Description |
 | --------------|:-------------|
-| [Design System Checklist](https://www.designsystemchecklist.com/) | An open-source checklist to help you plan, build and grow your design system. <br /><br /> Tags: `design` `system` `plan` `organize` |
+| [Design System Checklist](https://www.designsystemchecklist.com/) | An open-source checklist to help you plan, build and grow your design system. |
 
 
 
@@ -120,7 +120,7 @@
 
 | Website | Description |
 | --------------|:-------------|
-| [OnePageLove](https://www.onepagelove.com/) | One page website design gallery showcasing the best Single Page website templates. <br /><br /> Tags: `HTML` `CSS` `website` `template` |
+| [OnePageLove](https://www.onepagelove.com/) | One page website design gallery showcasing the best Single Page website templates. |
 
 
 
@@ -137,7 +137,7 @@
 | [Instructables](https://www.instructables.com/) | Instructions on how to fix household items, take up some DIY projects and so on. |
 | [Mint](https://www.mint.com/) | Mint can help you organize your finances and track your spending. |
 | [StudentRecipes](https://www.studentrecipes.com/) | Has recipes for 4,000 quick and easy student meals. |
-| [TED](https://www.ted.com/) | Various talks given at events all over the world with topics such as technology, entertainment, etc.. <br /><br /> Tags: `ted` `talks` `events` `voice` |
+| [TED](https://www.ted.com/) | Various talks given at events all over the world with topics such as technology, entertainment, etc.. |
 
 
 
@@ -153,10 +153,10 @@
 
 | Website | Description |
 | --------------|:-------------|
-| [BookBub](https://www.bookbub.com/) | Get free best-selling e-books. <br /><br /> Tags: `freebie` `ebook` |
+| [BookBub](https://www.bookbub.com/) | Get free best-selling e-books. |
 
 <h3>Software:</h6>
 
 | Website | Description |
 | --------------|:-------------|
-| [SharewareOnSale](https://www.sharewareonsale.com/) | Free giveaways of paid apps & software. <br /><br /> Tags: `freebie` `software` `giveaway` |
+| [SharewareOnSale](https://www.sharewareonsale.com/) | Free giveaways of paid apps & software. |
