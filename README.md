@@ -44,11 +44,8 @@
 
 ---
 
-<div>
-   <h2 align="center">Students</h2>
-</div>
-
-> Useful websites for students for various things.
+<h2>Students</h3>
+<h4>Useful websites for students for various things.</h4>
 
 | Website | Description |
 | --------------|:-------------|
