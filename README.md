@@ -77,7 +77,7 @@
 
 | Website | Description |
 | --------------|:-------------|
-| [StorySet](https://www.storyset.com/) | Customize, animate and download our illustrations to make incredible landing pages, app or presentations. <br /><br /> Tags: `UI` `Illustrations` `Graphics` |
+| [StorySet](https://www.storyset.com/) | Customize, animate and download our illustrations to make incredible landing pages, app or presentations. <br /><br /> Tags: `ui` `illustrations` `graphics` |
 
 
 ---
