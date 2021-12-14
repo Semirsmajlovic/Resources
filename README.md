@@ -2,8 +2,29 @@
     <h1 align="center">Resources</h1>
 </div>
 
-## Network
-> All sorts of network tools, such as whois, port, IP, etc..
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ul>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+  </ul>
+</details>
+
+<h2 align="center">Network</h3>
+<h4 align="center">A compiled list of various network tools, such as whois, port, IP, Phone Geolocation, etc..</h4>
 
 | Website | Description |
 | --------------|:-------------|
