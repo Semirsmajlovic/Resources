@@ -75,9 +75,9 @@
 ---
 
 <h2>Freebies</h3>
-<p>Useful websites to claim free items through promotions and/or giveaways.</p>
+> Useful websites to claim free items through promotions and/or giveaways.
 
-<h6>Books:</h6>
+<h3>Books:</h6>
 
 | Website | Description |
 | --------------|:-------------|
