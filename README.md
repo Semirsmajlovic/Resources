@@ -11,6 +11,15 @@
 
 ---
 
+## Focus & Concentration
+> A compiled list of various website resources that help ease the mind and shift you into focus.
+
+| Website | Description |
+| --------------|:-------------|
+| [MindMup](https://www.mindmup.com/) | Create and share amazing mind maps designed to help you focus on your ideas and remove all the distractions while mindmapping. <br /><br /> Tags: `mind` `brainstorming` `focus` `collaborate` |
+
+---
+
 ## Students
 > Useful websites for students for various things.
 
