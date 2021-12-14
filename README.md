@@ -82,4 +82,10 @@
 
 | Website | Description |
 | --------------|:-------------|
+| [BookBub](https://www.bookbub.com/) | Get free best-selling e-books. <br /><br /> Tags: `freebie` `ebook` |
+
+<h3>Software:</h6>
+
+| Website | Description |
+| --------------|:-------------|
 | [SharewareOnSale](https://www.sharewareonsale.com/) | Free giveaways of paid apps & software. <br /><br /> Tags: `freebie` `software` `giveaway` |
