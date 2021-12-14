@@ -80,6 +80,19 @@
 | [StorySet](https://www.storyset.com/) | Customize, animate and download our illustrations to make incredible landing pages, app or presentations. <br /><br /> Tags: `UI` `Illustrations` `Graphics` |
 
 
+---
+
+
+
+<h2>Organization</h3>
+
+> A compiled list of tools and resources to organize and plan your workflow.
+
+| Website | Description |
+| --------------|:-------------|
+| [Design System Checklist](https://www.designsystemchecklist.com/) | An open-source checklist to help you plan, build and grow your design system. <br /><br /> Tags: `design` `system` `plan` `organize` |
+
+
 
 ---
 
