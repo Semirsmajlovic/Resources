@@ -24,8 +24,15 @@
   </ul>
 </details>
 
+
+
+---
+
+
+
 <h2>Colors</h3>
-<h4>Websites and resources that help with choices related to colors.</h4>
+
+> Websites and resources that help with choices related to colors.
 
 | Website | Description |
 | --------------|:-------------|
@@ -36,36 +43,51 @@
 ---
 
 
-
 <h2>Network</h3>
-<h4>A compiled list of various network tools, such as whois, port, IP, Phone Geolocation, etc..</h4>
+
+> A compiled list of various network tools, such as whois, port, IP, Phone Geolocation, etc.
 
 | Website | Description |
 | --------------|:-------------|
 | [YouGetSignal](https://www.yougetsignal.com/) | Check Ports, IP, Geolocator, WHOIS and various other things. <br /><br /> Tags: `whois` `ip` `domain` `geolocator` `phone` |
 
+
+
 ---
 
+
+
 <h2>Focus & Concentration</h3>
-<h4>A compiled list of various website resources that help ease the mind and shift you into focus.</h4>
+
+> A compiled list of various website resources that help ease the mind and shift you into focus.
 
 | Website | Description |
 | --------------|:-------------|
 | [MindMup](https://www.mindmup.com/) | Create and share amazing mind maps designed to help you focus on your ideas and remove all the distractions while mindmapping. <br /><br /> Tags: `mind` `brainstorming` `focus` `collaborate` |
 
+
+
 ---
 
+
+
 <h2>UI Graphics</h3>
-<h4>Websites and resources for various UI components such as Illustrations, PSD, etc..</h4>
+
+> Websites and resources for various UI components such as Illustrations, PSD, etc.
 
 | Website | Description |
 | --------------|:-------------|
 | [StorySet](https://www.storyset.com/) | Customize, animate and download our illustrations to make incredible landing pages, app or presentations. <br /><br /> Tags: `UI` `Illustrations` `Graphics` |
 
+
+
 ---
 
+
+
 <h2>HTML Templates</h3>
-<h4>A compiled list of various HTML templates that can be used for projects.</h4>
+
+> A compiled list of various HTML templates that can be used for projects.
 
 | Website | Description |
 | --------------|:-------------|
