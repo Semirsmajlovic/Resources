@@ -35,11 +35,8 @@
 
 ---
 
-<div>
-   <h2 align="center">Focus & Concentration</h2>
-</div>
-
-> A compiled list of various website resources that help ease the mind and shift you into focus.
+<h2>Focus & Concentration</h3>
+<h4>A compiled list of various website resources that help ease the mind and shift you into focus.</h4>
 
 | Website | Description |
 | --------------|:-------------|
