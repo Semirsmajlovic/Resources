@@ -7,7 +7,7 @@
 
 | Website | Description |
 | --------------|:-------------|
-| [YouGetSignal](https://www.yougetsignal.com/) | Check Ports, IP, Geolocator, WHOIS and various other things. <br /> Tags: `whois` `ip` `domain` `geolocator` `phone` |
+| [YouGetSignal](https://www.yougetsignal.com/) | Check Ports, IP, Geolocator, WHOIS and various other things. <br /><br /> Tags: `whois` `ip` `domain` `geolocator` `phone` |
 
 ---
 
@@ -19,3 +19,4 @@
 | [Instructables](https://www.instructables.com/) | Instructions on how to fix household items, take up some DIY projects and so on. |
 | [Mint](https://www.mint.com/) | Mint can help you organize your finances and track your spending. |
 | [StudentRecipes](https://www.studentrecipes.com/) | Has recipes for 4,000 quick and easy student meals. |
+| [TED](https://www.ted.com/) | Various talks given at events all over the world with topics such as technology, entertainment, etc.. <br /><br /> Tags: `ted` `talks` `events` `voice` |
