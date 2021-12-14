@@ -79,4 +79,4 @@
 
 | Website | Description |
 | --------------|:-------------|
-| [SharewareonSale](https://www.sharewareonsale.com/) | Free giveaways of paid apps & software. <br /><br /> Tags: `freebie` `software` `giveaway` |
+| [SharewareOnSale](https://www.sharewareonsale.com/) | Free giveaways of paid apps & software. <br /><br /> Tags: `freebie` `software` `giveaway` |
