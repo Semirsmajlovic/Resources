@@ -98,6 +98,20 @@
 
 
 
+<h2>Photos & Videos</h3>
+
+> A compiled list of tools and resources to help workflow related to photos and videos.
+
+| Website | Description |
+| --------------|:-------------|
+| [FocoClipping](https://www.fococlipping.com/) | Free Image Background Remover. <br /><br /> Tags: `photo` `background` `remover` `video` |
+
+
+
+---
+
+
+
 <h2>HTML Templates</h3>
 
 > A compiled list of various HTML templates that can be used for projects.
