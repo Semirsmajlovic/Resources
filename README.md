@@ -44,6 +44,15 @@
 
 ---
 
+<h2>UI Graphics</h3>
+<h4>Websites and resources for various UI graphics such as Illustrations, PSD, etc..</h4>
+
+| Website | Description |
+| --------------|:-------------|
+| [StorySet](https://www.storyset.com/) | Customize, animate and download our illustrations to make incredible landing pages, app or presentations. <br /><br /> Tags: `UI` `Illustrations` `Graphics` |
+
+---
+
 <h2>HTML Templates</h3>
 <h4>A compiled list of various HTML templates that can be used for projects.</h4>
 
