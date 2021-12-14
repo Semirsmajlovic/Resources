@@ -24,7 +24,18 @@
   </ul>
 </details>
 
+<h2>Colors</h3>
+<h4>Websites and resources that help with choices related to colors.</h4>
+
+| Website | Description |
+| --------------|:-------------|
+| [HappyHues](https://www.happyhues.co/) | Color palette inspiration site that acts as a real world example of how colors should be used in projects. <br /><br /> Tags: `colors` `hue` `palette` |
+
+
+
 ---
+
+
 
 <h2>Network</h3>
 <h4>A compiled list of various network tools, such as whois, port, IP, Phone Geolocation, etc..</h4>
@@ -60,7 +71,11 @@
 | --------------|:-------------|
 | [OnePageLove](https://www.onepagelove.com/) | One page website design gallery showcasing the best Single Page website templates. <br /><br /> Tags: `HTML` `CSS` `website` `template` |
 
+
+
 ---
+
+
 
 <h2>Students</h3>
 <h4>Useful websites for students for various things.</h4>
@@ -72,7 +87,11 @@
 | [StudentRecipes](https://www.studentrecipes.com/) | Has recipes for 4,000 quick and easy student meals. |
 | [TED](https://www.ted.com/) | Various talks given at events all over the world with topics such as technology, entertainment, etc.. <br /><br /> Tags: `ted` `talks` `events` `voice` |
 
+
+
 ---
+
+
 
 <h2>Freebies</h3>
 
