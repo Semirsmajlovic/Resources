@@ -98,13 +98,14 @@
 
 
 
-<h2>Photos & Videos</h3>
+<h2>Photos, Images & Videos</h3>
 
 > A compiled list of tools and resources to help workflow related to photos and videos.
 
 | Website | Description |
 | --------------|:-------------|
 | [FocoClipping](https://www.fococlipping.com/) | Free Image Background Remover. <br /><br /> Tags: `photo` `background` `remover` `video` |
+| [Ray.so](https://www.ray.so/) | Create beautiful images of your code. <br /><br /> Tags: `image` `screenshot` `photo` |
 
 
 
