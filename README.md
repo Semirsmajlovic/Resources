@@ -104,9 +104,9 @@
 
 | Website | Description |
 | --------------|:-------------|
-| [FocoClipping](https://www.fococlipping.com/) | Free Image Background Remover. <br /><br /> Tags: `photo` `background` `remover` `video` |
-| [Ray.so](https://www.ray.so/) | Create beautiful images of your code. <br /><br /> Tags: `image` `screenshot` `photo` |
-| [Cleanup.photos](https://www.cleanup.photos/) | Remove defects and unwanted objects from photos. <br /><br /> Tags: `image` `screenshot` `photo` `removal` |
+| [FocoClipping](https://www.fococlipping.com/) | Free Image Background Remover. |
+| [Ray.so](https://www.ray.so/) | Create beautiful images of your code. |
+| [Cleanup.photos](https://www.cleanup.photos/) | Remove defects and unwanted objects from photos. |
 
 
 
