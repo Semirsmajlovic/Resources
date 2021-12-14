@@ -44,6 +44,15 @@
 
 ---
 
+<h2>HTML Templates</h3>
+<h4>A compiled list of various HTML templates that can be used for projects.</h4>
+
+| Website | Description |
+| --------------|:-------------|
+| [OnePageLove](https://www.onepagelove.com/) | One page website design gallery showcasing the best Single Page website templates. <br /><br /> Tags: `HTML` `CSS` `website` `template` |
+
+---
+
 <h2>Students</h3>
 <h4>Useful websites for students for various things.</h4>
 
