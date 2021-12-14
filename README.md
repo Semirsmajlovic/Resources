@@ -1,5 +1,5 @@
 <div>
-    <h1 align="center">About The Project</h1>
+    <h1 align="center">Resources</h1>
 </div>
 
 ## Network
