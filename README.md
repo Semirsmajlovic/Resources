@@ -71,3 +71,12 @@
 | [Mint](https://www.mint.com/) | Mint can help you organize your finances and track your spending. |
 | [StudentRecipes](https://www.studentrecipes.com/) | Has recipes for 4,000 quick and easy student meals. |
 | [TED](https://www.ted.com/) | Various talks given at events all over the world with topics such as technology, entertainment, etc.. <br /><br /> Tags: `ted` `talks` `events` `voice` |
+
+---
+
+<h2>Freebies</h3>
+<h4>Useful websites to claim free items through promotions and/or giveaways.</h4>
+
+| Website | Description |
+| --------------|:-------------|
+| [SharewareonSale](https://www.sharewareonsale.com/) | Free giveaways of paid apps & software. <br /><br /> Tags: `freebie` `software` `giveaway` |
