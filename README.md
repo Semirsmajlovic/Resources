@@ -1,6 +1,7 @@
 <div>
     <h1 align="center">Resources</h1>
 </div>
+<br/>
 
 <!-- TABLE OF CONTENTS -->
 <details>
