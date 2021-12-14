@@ -11,7 +11,10 @@
 
 ---
 
-## Focus & Concentration
+<div>
+   <h2 align="center">Focus & Concentration</h2>
+</div>
+
 > A compiled list of various website resources that help ease the mind and shift you into focus.
 
 | Website | Description |
@@ -20,7 +23,10 @@
 
 ---
 
-## Students
+<div>
+   <h2 align="center">Students</h2>
+</div>
+
 > Useful websites for students for various things.
 
 | Website | Description |
