@@ -45,7 +45,7 @@
 ---
 
 <h2>UI Graphics</h3>
-<h4>Websites and resources for various UI graphics such as Illustrations, PSD, etc..</h4>
+<h4>Websites and resources for various UI components such as Illustrations, PSD, etc..</h4>
 
 | Website | Description |
 | --------------|:-------------|
