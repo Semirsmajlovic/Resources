@@ -24,8 +24,8 @@
   </ul>
 </details>
 
-<h2 align="center">Network</h3>
-<h4 align="center">A compiled list of various network tools, such as whois, port, IP, Phone Geolocation, etc..</h4>
+<h2>Network</h3>
+<h4>A compiled list of various network tools, such as whois, port, IP, Phone Geolocation, etc..</h4>
 
 | Website | Description |
 | --------------|:-------------|
