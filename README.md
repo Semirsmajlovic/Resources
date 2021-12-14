@@ -17,3 +17,5 @@
 | Website | Description |
 | --------------|:-------------:|
 | [Instructables](https://www.instructables.com/) | Instructions on how to fix household items, take up some DIY projects and so on. |
+| [Mint](https://www.mint.com/) | Mint can help you organize your finances and track your spending. |
+| [StudentRecipes](https://www.studentrecipes.com/) | Has recipes for 4,000 quick and easy student meals. |
