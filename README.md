@@ -128,6 +128,20 @@
 
 
 
+<h2>Wiki</h3>
+
+> Useful websites for wiki & documentation software.
+
+| Website | Description |
+| --------------|:-------------|
+| [BookStack](https://www.bookstackapp.com/) | BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information. |
+
+
+
+---
+
+
+
 <h2>Students</h3>
 
 > Useful websites for students for various things.
