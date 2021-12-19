@@ -107,6 +107,7 @@
 | [FocoClipping](https://www.fococlipping.com/) | Free Image Background Remover. |
 | [Ray.so](https://www.ray.so/) | Create beautiful images of your code. |
 | [Cleanup.photos](https://www.cleanup.photos/) | Remove defects and unwanted objects from photos. |
+| [TinyWow](https://www.tinywow.com/) | Tools That Solve Your Files Problem. |
 
 
 
