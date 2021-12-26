@@ -71,6 +71,19 @@
 
 
 
+<h2>Fonts</h3>
+
+> A compiled list of various fonts.
+
+| Website | Description |
+| --------------|:-------------|
+| [UIBundle Fonts](https://uibundle.com/category/fonts) | Accelerate your projects with hundreds of ready-to-use resources made by 320 talented designers from around the world. |
+
+
+
+---
+
+
 <h2>UI Graphics</h3>
 
 > Websites and resources for various UI components such as Illustrations, PSD, etc.
